@@ -1,2 +1,2 @@
 # solidity-path
-learning solidity and smart contract development, for blockchain.
+## learning solidity and smart contract development, for blockchain.
